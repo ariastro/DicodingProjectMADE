@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyBroadcastReceiver</string>
+    <string name="ini_aplikasi_sms_receiver">Ini Aplikasi Sms Receiver</string>
+    <string name="download_a_file">Download a File</string>
+</resources>

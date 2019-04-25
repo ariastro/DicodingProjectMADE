@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyDeepNavigation</string>
+    <string name="open_detail">Open Detail</string>
+    <string name="title">Title</string>
+    <string name="messagea">MessageA</string>
+</resources>
